@@ -1,0 +1,7 @@
+1- Criem um novo arquivo chamado listaExercicio.html
+
+2- Preciso que vossas senhorias criem uma lista ordenada com no mínimo 5 itens do tema "Coisas para se fazer em fortaleza nas Férias"
+
+3- Preciso que vossas senhorias criem uma lista não ordenada com no mínimo 5 itens do tema "Melhores músicas para se escutar quando está eufórico"
+
+4- Preciso que vocês criem uma lista descritiva com o título e a sinopse do filme, mínimo 5 itens. 
